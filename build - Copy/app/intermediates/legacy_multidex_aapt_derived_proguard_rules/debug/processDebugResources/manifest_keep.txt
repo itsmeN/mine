@@ -1,0 +1,2 @@
+# Referenced at D:\New folder\mine\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:26
+-keep class io.flutter.app.FlutterApplication { <init>(); }

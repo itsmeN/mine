@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891618271862",
+    "firebase_url": "https://mine-f9f22.firebaseio.com",
+    "project_id": "mine-f9f22",
+    "storage_bucket": "mine-f9f22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891618271862:android:6de2a48ebf68110d",
+        "android_client_info": {
+          "package_name": "com.example.mine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891618271862-c81rp02ugq6rvchgikodacbhu3t0ns9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXGVzvG0-e1f5Y_YH5kNgX4HCoKQiYOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891618271862-c81rp02ugq6rvchgikodacbhu3t0ns9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
